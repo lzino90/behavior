@@ -5,7 +5,7 @@ INSTRUCTIONS AND SYSTEM REQUIREMENTS:
 
 The code for the simulation is written in MATLAB, using version 2019b and requires no add-ons. All the functions needed are included in the corresponding folders. Hence, to run the code it is sufficient to open the corresponding folder with MATLAB.
 
-Both MATLAB and Excel code has been tested on a PC with 16GB RAM and CPU 1.9 GHz with OS Windows 10 (64-bit). The run time of a simulation with n=10,000 individuals and T=600 time-steps is approximately 600, 800, and 900 seconds for the SIS, SIR, and SEIR models, respectively.
+Both MATLAB and Excel code has been tested on a PC with 16GB RAM and CPU 1.9 GHz with OS Windows 10 (64-bit). The run time of a simulation with n=10,000 individuals and T=600 time-steps is approximately 1000, 600, and 900 seconds for the SIS, SIR, and SEIR models, respectively.
 
 ORGANIZATION:
 
