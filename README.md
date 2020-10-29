@@ -17,7 +17,7 @@ The folder "raw_data_figures" contains all the .tex files used to generate the f
 
 DEMO
 
-The folder "Demo" contains a sample output of the simulation in the file "output_demo" and the code use to generate it. To run it, it is sufficient to open the folder with MATLAB and run "code_for_demo.m". The run tume is of 1000 second on a standard PC.
+The folder "Demo" contains a sample output of the simulation in the file "demo_output" and the code use to generate it. To run it, it is sufficient to open the folder with MATLAB and run "code_for_demo.m". The run tume is of 1000 second on a standard PC.
 
 LICENCE
 Our code has no custom licence, just requires a standard MATLAB licence to run.
