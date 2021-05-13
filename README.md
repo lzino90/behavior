@@ -3,7 +3,7 @@ Code and data used in the paper "Modelling epidemic dynamics under collective de
 
 INSTRUCTIONS AND SYSTEM REQUIREMENTS:
 
-The code for the simulation is written in MATLAB, using version 2019b and requires no add-ons. All the functions needed are included in the corresponding folders. Hence, to run the code it is sufficient to open the corresponding folder with MATLAB.
+The code for the simulation is written in MATLAB, using version 2021a and requires no add-ons. All the functions needed are included in the corresponding folders. Hence, to run the code it is sufficient to open the corresponding folder with MATLAB.
 
 Both MATLAB and Excel code has been tested on a PC with 16GB RAM and CPU 1.9 GHz with OS Windows 10 (64-bit). The run time of a simulation with n=10,000 individuals and T=600 time-steps is approximately 1000, 600, and 900 seconds for the SIS, SIR, and SEIR models, respectively.
 
@@ -17,7 +17,7 @@ The folder "raw_data_figures" contains all the .tex files used to generate the f
 
 DEMO
 
-The folder "Demo" contains a sample output of the simulation in the file "demo_output" and the code use to generate it. To run it, it is sufficient to open the folder with MATLAB and run "code_for_demo.m". The sample is a SIS model with n=10,000 individuals (Figure 3a). The run tume is of approximately 1000 second on a standard PC.
+The folder "Demo" contains a sample output of the simulation in the file "demo_output" and the code use to generate it. To run it, it is sufficient to open the folder with MATLAB and run "code_for_demo.m". The sample is a SIS model with n=10,000 individuals (similar to Figure 2a). The run tume is of approximately 1000 second on a standard PC.
 
 LICENCE
 Our code has no custom licence, just requires a standard MATLAB licence to run.
