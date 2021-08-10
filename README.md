@@ -20,5 +20,5 @@ DEMO
 The folder "Demo" contains a sample output of the simulation in the file "demo_output" and the code use to generate it. To run it, it is sufficient to open the folder with MATLAB and run "code_for_demo.m". The sample is a SIS model with n=10,000 individuals (similar to Figure 3a). The run tume is of approximately 1000 second on a standard PC.
 
 LICENCE
-Our code has no custom licence, just requires a standard MATLAB licence to run.
+Our code requires a standard MATLAB licence to run.
 
