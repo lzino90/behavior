@@ -1,5 +1,5 @@
 # behavior
-Code and data used in the paper "Game-theoretic modeling of collective decision-making during epidemics"
+Code and data used in the paper "Game-theoretic modeling of collective decision-making during epidemics" by M. Ye, L. Zino, A. Rizzo, and M. Cao, Phys. Rev. E, 2021 doi: 10.1103/PhysRevE.104.024314
 
 INSTRUCTIONS AND SYSTEM REQUIREMENTS:
 
